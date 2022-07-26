@@ -1,4 +1,4 @@
-### Hi👋 i'm Hridoy Ahmed Shajib
+### Hi👋 I'm Hridoy Ahmed Shajib
 
 
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
@@ -7,6 +7,6 @@
 
 - 💬 Ask me about **C,C++,HTML**
 
-- 📫 How to reach me via Email:**hridoyahmed562@gmail.com**
+- 📫 How to reach me via Email: **hridoyahmed562@gmail.com**
 
 - ⚡ Fun fact **I think i am funny and more reliable person.Guess i can make a smile for you.**
