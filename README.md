@@ -1,3 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyAhmedShajib&label=Profile%20views&color=0e75b6&style=flat" alt="HridoyAhmedShajib" /> 
+<a href="https://github.com/HridoyAhmedShajib?tab=followers"><img src="https://img.shields.io/github/followers/HridoyAhmedShajib?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<p align="left"> <a href="https://m.facebook.com/riyan.hridoy.562/" target="blank"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="HridoyAhmedShajib" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=2788B3&lines=As-salamu+alaykum;I+hope+you+are+well.....;Thank+you+.....">
+<div id="header" align="center">
+
+
+
+
 <div align="center">
 <h2>Hi <img src=https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4764u2rz802v8hbkh1rm0mh764ox5vibuhem67l7jn&rid=giphy.gif&ct=s" height="50px" width="40px"/>, I'm HRIDOY AHMED SHAJIB.<br>
 :man_technologist:
