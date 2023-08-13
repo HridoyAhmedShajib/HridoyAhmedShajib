@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyAhmedShajib&label=Profile%20views&color=0e75b6&style=flat" alt="HridoyAhmedShajib" /> 
 <a href="https://github.com/HridoyAhmedShajib?tab=followers"><img src="https://img.shields.io/github/followers/HridoyAhmedShajib?label=Followers&style=social" alt="GitHub Badge"></a></p>
-<p align="left"> <a href="https://m.facebook.com/riyan.hridoy.562/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HridoyAhmedShajib" /></a> </p>
+<p align="left"> <a href="https://m.facebook.com/riyan.hridoy.562/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HridoyAhmedShajib" height="50" width="50" /></a> </p>
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=2788B3&lines=As-salamu+alaykum;I+hope+you+are+well.....;Thank+you+.....">
 <div id="header" align="center">
 
